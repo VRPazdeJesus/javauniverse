@@ -1,11 +1,12 @@
-.grand-title {
+.grand-title{
   font-size: 94px;
 }
-
-.light-pricing .price small {
+.light-pricing .price small{
   color: white;
 }
-
-.shadow {
+.shadow{
   text-shadow: black 0.1em 0.1em 0.2em;
+}
+.tam-img{
+  width: 100%;
 }
